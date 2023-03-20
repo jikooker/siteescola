@@ -1,4 +1,15 @@
-header { 
-    background-color: rgba(44, 42, 44, 0.4);
-    color: white;
+.cabeçalho { 
+    background-color: rgba(0, 0, 0, 0.61);
+    color: rgb(243, 238, 238);
+    display: flex;
+    justify-content: space-around;
+
+}
+.cabeçalho-imagem{
+    width: 10%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block
+    
 }
